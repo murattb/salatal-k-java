@@ -1,0 +1,2 @@
+# salatal-k-java
+Selenyum kullanarak temel salatalık projesi  Projeyi maven ile çalıştırın  komut satırında "mvn clean" yaz Bundan sonra tüm testi çalıştırmak için başka bir komut "mvn doğrula" yaz Test sonucunu görüntüle  Çalıştırdıktan sonra otomatik olarak oluşturulan hedef / salatalık-raporları / hıyar-html raporları klasörünün altında bulunan genel bakış-features.html dosyasına tarayıcı ile açın. / Sources / features dizinindeki Test Durumları.
